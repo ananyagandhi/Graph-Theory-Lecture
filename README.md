@@ -1,2 +1,3 @@
-# Graph-Theory-Lecture
-Lecture Notes for Introduction to Graph Theory Class
+# SIAM Coding Bootcamp
+Lecture Notes for SIAM Coding Bootcamp
+Classes - Introduction to Graph Theory, Introduction to Lists in Python
